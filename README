@@ -1,0 +1,1 @@
+ssh -i okitsu.pem ec2-user@54.65.68.230
